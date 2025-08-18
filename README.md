@@ -35,3 +35,21 @@ I am a beginner front-end developer with a background in accounting and a degree
 - **Email:** ulzirok@gmail.com
 - **Telegram:** @ulzirok
 - **CV:** https://ulzirok.github.io/cv/
+
+---
+
+<div align="center">
+
+## 📊 My metrics:
+
+![Ulzirok's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulzirok&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ulzirok&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulzirok&layout=compact&langs_count=8&theme=tokyonight)
+
+[![Ulzirok Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ulzirok&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ulzirok&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
