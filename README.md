@@ -1,13 +1,17 @@
-## Hi there 👋 I'm Ulzira 👩‍💻
+<div align="center">
+
+# 👋 Привет, я Улзира!  
+### Frontend Developer | Angular | TypeScript  
+
+💡 Люблю создавать удобные интерфейсы и изучать новые технологии.  
+🚀 Стремлюсь стать сильным Angular-разработчиком и развиваться в frontend.  
+
+</div>
 
 ---
 
-## 💡 About Me:
-I am a beginner front-end developer with a background in accounting and a degree in Information Technology. Although my university education included limited practical IT training, I’ve always been interested in technology and wanted to switch to IT. After several years of working as an accountant, I decided to follow my passion and start a new career in web development.
+## 💻 Skills
 
----
-
-## 💻 Skills:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -26,24 +30,26 @@ I am a beginner front-end developer with a background in accounting and a degree
 
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
 
+---
+
+<div align="center">
+
+## 📊 Мои метрики
+
+![Ulzirok's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ulzirok&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ulzirok&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ulzirok&layout=compact&langs_count=8&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ulzirok&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-## 📞 Contact Info:
-- **Location:** Tashkent, Uzbekistan
-- **GitHub:** [github.com/ulzirok](https://github.com/ulzirok)
-- **Email:** ulzirok@gmail.com
-- **Telegram:** @ulzirok
-- **CV:** https://ulzirok.github.io/cv/
+## 📫 Контакты
 
----
+- ✉️ Email: **ulzirok@gmail.com**  
+- 💬 Telegram: [@ulzirok](https://t.me/ulzirok)
 
-## 📊 My metrics:
-
-![Ulzirok's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulzirok&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ulzirok&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulzirok&layout=compact&langs_count=8&theme=tokyonight)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ulzirok&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
