@@ -1,12 +1,15 @@
-<div align="center">
-
 # 👋 Привет, я Улзира!  
 ### Frontend Developer | Angular | TypeScript  
 
 💡 Люблю создавать удобные интерфейсы и изучать новые технологии.  
-🚀 Стремлюсь стать сильным Angular-разработчиком и развиваться в frontend.  
+🚀 Стремлюсь стать сильным Angular-разработчиком и развиваться в frontend.
 
-</div>
+---
+
+## 📫 Контакты
+
+- ✉️ Email: **ulzirok@gmail.com**  
+- 💬 Telegram: [@ulzirok](https://t.me/ulzirok)
 
 ---
 
@@ -32,24 +35,13 @@
 
 ---
 
-<div align="center">
-
 ## 📊 Мои метрики
 
-![Ulzirok's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ulzirok&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+![Ulzirok's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulzirok&show_icons=true&count_private=true&include_all_commits=true&theme=radical&cache_seconds=1800)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ulzirok&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ulzirok&layout=compact&langs_count=8&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulzirok&layout=compact&langs_count=8&theme=radical&cache_seconds=1800)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ulzirok&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📫 Контакты
-
-- ✉️ Email: **ulzirok@gmail.com**  
-- 💬 Telegram: [@ulzirok](https://t.me/ulzirok)
 
