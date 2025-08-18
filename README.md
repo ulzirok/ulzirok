@@ -38,8 +38,6 @@ I am a beginner front-end developer with a background in accounting and a degree
 
 ---
 
-<div align="center">
-
 ## 📊 My metrics:
 
 ![Ulzirok's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulzirok&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight)
@@ -51,5 +49,3 @@ I am a beginner front-end developer with a background in accounting and a degree
 [![Ulzirok Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ulzirok&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ulzirok&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
