@@ -43,5 +43,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulzirok&layout=compact&langs_count=8&theme=radical&cache_seconds=1800)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ulzirok&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ulzirok&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
