@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 Мои метрики
+## 📊 Метрики
 
 ![Ulzirok's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulzirok&show_icons=true&count_private=true&include_all_commits=true&theme=radical&cache_seconds=1800)
 
