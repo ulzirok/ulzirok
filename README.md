@@ -9,7 +9,7 @@
 ## 📫 Контакты
 
 - ✉️ Email: **ulzirok@gmail.com**  
-- 💬 Telegram: [@ulzirok](https://t.me/ulzirok)
+- 💬 Telegram: [@khmdmbvna](https://t.me/khmdmbvna)
 
 ---
 
@@ -31,6 +31,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
 
 ---
