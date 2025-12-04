@@ -1,12 +1,12 @@
-# 👋 Привет, я Улзира!  
-### Frontend Developer | Angular | TypeScript  
+# 👋 Hello!  
+### I'm Frontend Developer | Angular | TypeScript  
 
-💡 Люблю создавать удобные интерфейсы и изучать новые технологии.  
-🚀 Стремлюсь стать сильным Angular-разработчиком и развиваться в frontend.
+💡 I like creating simple and comfortable interfaces and learning new technologies. 
+🚀 I am working to become a strong Angular developer and grow in frontend.
 
 ---
 
-## 📫 Контакты
+## 📫 Contacts
 
 - ✉️ Email: **ulzirok@gmail.com**  
 - 💬 Telegram: [@khmdmbvna](https://t.me/khmdmbvna)
@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 Метрики
+## 📊 Metrics
 
 ![Ulzirok's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulzirok&show_icons=true&count_private=true&include_all_commits=true&theme=radical&cache_seconds=1800)
 
