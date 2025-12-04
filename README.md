@@ -1,8 +1,8 @@
 # 👋 Hello!  
 ### I'm Frontend Developer | Angular | TypeScript  
 
-💡 I like creating simple and comfortable interfaces and learning new technologies. 
-🚀 I am working to become a strong Angular developer and grow in frontend.
+- 💡 I like creating simple and comfortable interfaces and learning new technologies. 
+- 🚀 I am working to become a strong Angular developer and grow in frontend.
 
 ---
 
