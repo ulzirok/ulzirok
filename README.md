@@ -1,11 +1,3 @@
-# 👋 Hello!  
-### I'm Frontend Developer | Angular | TypeScript  
-
-- 💡 I like creating simple and comfortable interfaces and learning new technologies. 
-- 🚀 I am working to become a strong Angular developer and grow in frontend.
-
----
-
 ## 💻 Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
